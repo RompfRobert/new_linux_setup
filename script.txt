@@ -1,0 +1,1 @@
+sudo apt-get update -y && sudo apt update -y && sudo apt upgrade -y && sudo apt install steam code gimp vlc discord obs-studio timeshift tlp preload wine64 thunderbird bleachbit 
